@@ -1,1 +1,1 @@
-# sudoku
+# A flutter sudoku app
